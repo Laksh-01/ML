@@ -1,0 +1,14 @@
+scikit-learn
+pandas 
+numpy
+matplotlib
+plotly
+nbformat
+seaborn
+category_encoders
+imbalanced-learn
+mlxtend
+tensorflow
+mnist
+conv
+kmeans
